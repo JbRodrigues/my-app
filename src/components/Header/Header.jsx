@@ -3,7 +3,10 @@ import './Header.css'
 
 function Header() {
     return (
-        <h1 className="header-title">Teste</h1>
+        <header className="Header">
+            <h1 className="header-title">Portal de Notícias</h1>
+        </header>
+
     );
 }
 

@@ -4,7 +4,13 @@
     box-sizing: border-box;
 }
 
-.header-title{
+.Header {
+    width: 98%;
+    margin: 1rem;
+}
+
+.header-title {
     margin: 1rem;
     padding: 1rem;
+    font-size: 20px;
 }
