@@ -4,3 +4,35 @@
     box-sizing: border-box;
 }
 
+.MainCard{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    color: #FEFBFB;
+    border: 2px solid black;
+    height: 300px;
+    width: 50%;
+    flex-direction: column;
+    margin: 1rem 4rem;
+}
+
+.category{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8257E6;
+    width: 100px;
+    border-radius: 0.5rem;
+    height: 30px;
+    margin: 1rem;
+}
+
+.news-description{
+    display: flex;
+    width: auto;
+    height: 100px;
+    margin: 1rem;
+    padding: 1rem;
+    align-items: center;
+    justify-content: center;
+}
