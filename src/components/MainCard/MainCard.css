@@ -7,7 +7,7 @@
 .MainCard {
     display: flex;
     justify-content: space-between;
-    align-items: start;
+    align-items: flex-start;
     color: #FEFBFB;
     border: 2px solid black;
     height: 350px;

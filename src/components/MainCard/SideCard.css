@@ -21,14 +21,14 @@
     margin-top: 5px;
     border: 1px solid black;
     justify-content: space-between;
-    align-items: start;
+    align-items: flex-start;
     flex-direction: column;
 }
 
 .side-category {
     display: flex;
     justify-content: center;
-    align-items: start;
+    align-items: flex-start;
     background-color: #8257E6;
     width: 80px;
     height: 25px;

@@ -22,9 +22,7 @@ function MainCard() {
                             <div className="side-category">Esportes</div>
                             <div className="sideNews">Lorem ipsum dolor</div>
                         </div>
-
                     </div>
-
                 </div>
             </div>
         </>
