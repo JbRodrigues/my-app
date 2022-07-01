@@ -1,8 +1,8 @@
 import React from "react";
-import './CardSection.css'
+import './SideSection.css'
 import './CardSectionSide.css'
 
-function CardSection() {
+function SideSection() {
     return (
         <>
             <div className="CardSection-Container">
@@ -115,4 +115,4 @@ function CardSection() {
     )
 }
 
-export default CardSection;
+export default SideSection;
